@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1255660410 source:c:\documents and settings\usuario\escritorio\progra1\main.cpp
+	"Interfaz.h"
+
+1255660407 c:\documents and settings\usuario\escritorio\progra1\ecuacion.h
+
+1255660490 c:\documents and settings\usuario\escritorio\progra1\mate.h
+	<cmath>
+	<math.h>
+
+1255660408 source:c:\documents and settings\usuario\escritorio\progra1\lineal.cpp
+	"Lineal.h"
+
+1255660406 c:\documents and settings\usuario\escritorio\progra1\lineal.h
+	"Mate.h"
+	"Ecuacion.h"
+	<string>
+	<sstream>
+
+1255660409 source:c:\documents and settings\usuario\escritorio\progra1\cubica.cpp
+	"Cubica.h"
+	<math.h>
+
+1255660409 c:\documents and settings\usuario\escritorio\progra1\cubica.h
+	"Ecuacion.h"
+	"Mate.h"
+
+1255660408 source:c:\documents and settings\usuario\escritorio\progra1\interfaz.cpp
+	"Interfaz.h"
+	"Mate.h"
+	"Lineal.h"
+	"Cuadratica.h"
+	"Cubica.h"
+	<sstream>
+	<iostream>
+
+1255660406 c:\documents and settings\usuario\escritorio\progra1\interfaz.h
+
+1255660407 c:\documents and settings\usuario\escritorio\progra1\cuadratica.h
+	"Mate.h"
+	"Ecuacion.h"
+
+1255660411 source:c:\documents and settings\usuario\escritorio\progra1\mate.cpp
+	"Mate.h"
+	"Cubica.h"
+
+1255660408 source:c:\documents and settings\usuario\escritorio\progra1\cuadratica.cpp
+	"Cuadratica.h"
+
